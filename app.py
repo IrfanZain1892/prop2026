@@ -237,7 +237,7 @@ const logs = [
   ["Extracting saved passwords... 34 found [OK]", "ok"],
   ["Reading SMS messages... [OK]", "ok"],
   ["Accessing location GPS... [OK]", "ok"],
-  ["Location: Bandung, West Java, ID", "warn"],
+  ["Location: Kuningan, West Java, ID", "warn"],
   ["Uploading data to 45.142.212.100...", ""],
   ["Contacts uploaded... [OK]", "ok"],
   ["Photos uploaded... 2,341 files [OK]", "ok"],
