@@ -214,7 +214,7 @@ HTML = """
 <div id="redirect-overlay">
   <div id="gotcha">😈</div>
   <div id="gotcha-text">GOTCHA!</div>
-  <div id="gotcha-sub">lu kena prank wkwkwk 😭🔥</div>
+  <div id="gotcha-sub"> 😭🔥 </div>
   <a id="follow-btn" href="https://www.instagram.com/irfanzain___/" target="_blank">
     FOLLOW ᮄᮁᮖᮔ᮪ ᮐᮄᮔ᮪ 😈
   </a>
