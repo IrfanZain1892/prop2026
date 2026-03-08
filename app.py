@@ -215,8 +215,8 @@ HTML = """
   <div id="gotcha">😈</div>
   <div id="gotcha-text">GOTCHA!</div>
   <div id="gotcha-sub">lu kena prank wkwkwk 😭🔥</div>
-  <a id="follow-btn" href="https://bit.ly/4lieNo5" target="_blank">
-    FOLLOW @irfanzain___ 😈
+  <a id="follow-btn" href="https://www.instagram.com/irfanzain___/" target="_blank">
+    FOLLOW ᮄᮁᮖᮔ᮪ ᮐᮄᮔ᮪ 😈
   </a>
   <div id="countdown-text">auto redirect dalam <span id="countdown">5</span> detik...</div>
 </div>
@@ -295,7 +295,7 @@ function showGotcha() {
     countdownEl.textContent = sec;
     if (sec <= 0) {
       clearInterval(timer);
-      window.location.href = 'https://bit.ly/4lieNo5';
+      window.location.href = 'https://www.instagram.com/irfanzain___/';
     }
   }, 1000);
 }
